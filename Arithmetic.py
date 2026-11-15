@@ -1,0 +1,6 @@
+print('Addition: ',27.5 + 2)
+print('Substraction: ',27.5 - 2)
+print('Multiplication: ',27.5 * 2)
+print('Division: ',27.5/2)
+print('Floor division: ',27.5//2)
+print('Exponentiation: ',27.5**2)
